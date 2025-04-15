@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "cover": "https://covers.openlibrary.org/b/id/8228691-L.jpg"
+  },
+  {
+    "id": "2",
+    "title": "1984",
+    "author": "George Orwell",
+    "cover": "https://covers.openlibrary.org/b/id/7222246-L.jpg"
+  },
+  {
+    "id": "3",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "cover": "https://covers.openlibrary.org/b/id/7352163-L.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "cover": "https://covers.openlibrary.org/b/id/8091016-L.jpg"
+  },
+  {
+    "id": "5",
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "cover": "https://covers.openlibrary.org/b/id/8231994-L.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "cover": "https://covers.openlibrary.org/b/id/7884866-L.jpg"
+  },
+  {
+    "id": "7",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "cover": "https://covers.openlibrary.org/b/id/6979861-L.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Hello",
+    "author": "World",
+    "cover": ""
+  }
+]
